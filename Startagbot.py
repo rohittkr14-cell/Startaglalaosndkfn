@@ -17,7 +17,7 @@ BOT_TOKEN = "8642917919:AAHR1U_FtsL_X9XtUROTvpXc6lgjNLDz83M"     # from @BotFath
 BOT_USERNAME = "Star4TagBot"   # your bot username WITHOUT @
 
 # Only these user IDs can use /broadcast
-ADMIN_IDS = [123456789, 987654321]   # <- put YOUR Telegram user IDs here
+ADMIN_IDS = [7691071175]   # <- put YOUR Telegram user IDs here
 
 TAG_BATCH = 5        # Telegram limit: only 5 mentions notify per message
 SEND_DELAY = 3.0     # seconds between messages (smooth, avoids flood)
